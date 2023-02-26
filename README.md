@@ -20,7 +20,7 @@ Run the container
 sudo docker run -p 5000:5000 microservice-breast-cancer-prediction
 ```
 
-## To Create a Docker image container containing everything needed to run the application 
+## To Create a Docker image containing everything needed to run the application 
 
 ```bash
 sudo docker build -t microservice-breast-cancer-prediction .
