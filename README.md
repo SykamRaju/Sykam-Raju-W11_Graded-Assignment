@@ -13,7 +13,7 @@ the application in containers.
 
 ## Instructions with Screenshots:
 
-<a href="https://github.com/SykamRaju/Sykam-Raju-W11_Graded-Assignment/blob/main/Screenshots.pdf" class="image fit" >Check the complete process with screenshots</a>
+<a href="https://github.com/SykamRaju/Sykam-Raju-W11_Graded-Assignment/blob/main/Screenshots.pdf" class="image fit" target="_blank">Check the complete process with screenshots</a>
 
 ## Install Docker on Ubuntu 
 
