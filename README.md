@@ -28,10 +28,7 @@ sudo docker build -t microservice-breast-cancer-prediction .
 ## To run the micro service on Ubuntu:
 
 
-
-### Step 1:
-
-Run the container
+#### Run the container
 
 
 ```bash
