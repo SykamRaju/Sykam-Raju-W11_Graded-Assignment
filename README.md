@@ -10,6 +10,14 @@ To create a Docker image containing everything needed to run the application: th
 application code, libraries, tools, dependencies, and other files and to use the image to run
 the application in containers.
 
+
+## To Create a Docker image containing everything needed to run the application 
+
+```bash
+sudo docker build -t microservice-breast-cancer-prediction .
+```
+
+
 ## To run the micro service on Ubuntu:
 
 ### Step 1:
@@ -29,9 +37,4 @@ Run the container
 sudo docker run -p 5000:5000 microservice-breast-cancer-prediction
 ```
 
-## To Create a Docker image containing everything needed to run the application 
-
-```bash
-sudo docker build -t microservice-breast-cancer-prediction .
-```
 
