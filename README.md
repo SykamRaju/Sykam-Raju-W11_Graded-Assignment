@@ -10,6 +10,11 @@ To create a Docker image containing everything needed to run the application: th
 application code, libraries, tools, dependencies, and other files and to use the image to run
 the application in containers.
 
+
+## Instructions with Screenshots:
+
+<a href="https://github.com/SykamRaju/Sykam-Raju-W11_Graded-Assignment/blob/main/Screenshots.pdf" class="image fit" >Check the complete process with screenshots</a>
+
 ## Install Docker on Ubuntu 
 
 #### Install  Docker using the following command
