@@ -12,7 +12,7 @@ the application in containers.
 
 ## Install Docker on Ubuntu 
 
-Install  Docker using the following command
+#### Install  Docker using the following command
 
 ```bash
 sudo apt-get install docker.io
