@@ -11,3 +11,18 @@ Install  Docker using the following command
 sudo apt-get install docker.io
 ```
 
+Step 2:
+
+Run the container
+
+
+```bash
+sudo docker run -p 5000:5000 microservice-breast-cancer-prediction
+```
+
+To Create a Docker image container containing everything needed to run the application 
+
+```bash
+sudo docker build -t microservice-breast-cancer-prediction .
+```
+
